@@ -2,5 +2,6 @@
   "last_update": "1699447500", 
   "user": "2CS",
   "online": true,
-  "server": "thunderball"
+  "server_name": "thunderball",
+  "server_ip": "something.io"
 }
